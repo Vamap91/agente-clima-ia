@@ -1,0 +1,20 @@
+# Arquivos de configuração com chaves sensíveis
+.streamlit/secrets.toml
+.env
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Outros
+.DS_Store
